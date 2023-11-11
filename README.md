@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### 🤖 Azure Machine Learning
 
-- [Deploy ML](Azure/ML/deploy_ml.ps1): Deploy an Azure Machine Learning workspace and compute instance 
+- [Deploy ML](Azure/ML): Deploy an Azure Machine Learning workspace and compute instance 
 
 ### 💻 Computer State
 
