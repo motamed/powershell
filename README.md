@@ -37,6 +37,7 @@ Before you begin, ensure you have met the following requirements:
 - [Shutdown](ComputerState/shutdown.ps1): Shutdown the computer 
 - [Restart](ComputerState/restart.ps1): Restart the computer 
 - [Logoff](ComputerState/logoff.ps1): Log off the current user 
+- [Sleep](ComputerState/sleep.ps1): Put the computer into sleep mode
 
 ## Usage
 
