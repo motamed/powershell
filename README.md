@@ -1,4 +1,4 @@
-# PowerShell Scripts 
+# <img height="25" width="25" src="https://cdn.simpleicons.org/powershell" /> PowerShell Scripts 
 
 This repository is a collection of PowerShell scripts designed to make life easier when managing Azure resources. It includes scripts for managing Machine Learning workspaces, HDInsight clusters, and computer states.
 
