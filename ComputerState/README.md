@@ -4,3 +4,4 @@
 - [Shutdown](shutdown.ps1): Shutdown the computer.
 - [Restart](restart.ps1): Restart the computer.
 - [Logoff](logoff.ps1): Log off the current user.
+- [Sleep](ComputerState/sleep.ps1): Put the computer into sleep mode
