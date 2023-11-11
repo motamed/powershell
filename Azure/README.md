@@ -1,15 +1,3 @@
-# Azure PowerShell Scripts
-
-This repository contains a collection of PowerShell scripts for managing Azure resources, including Machine Learning workspaces, HDInsight clusters, and computer states.
-
-## Prerequisites
-
-- PowerShell
-- Azure CLI
-
-
-## Scripts
-
 ### Azure Basics
 
 - [Login](Azure/Basics/Login.ps1): Log in to your Azure account.
@@ -29,18 +17,3 @@ This repository contains a collection of PowerShell scripts for managing Azure r
 ### Azure Machine Learning
 
 - [Deploy ML](Azure/ML/deploy_ml.ps1): Deploy an Azure Machine Learning workspace and compute instance.
-
-
-### Computer State
-
-- [Lock](ComputerState/lock.ps1): Lock the workstation.
-- [Shutdown](ComputerState/shutdown.ps1): Shutdown the computer.
-- [Restart](ComputerState/restart.ps1): Restart the computer.
-- [Logoff](ComputerState/logoff.ps1): Log off the current user.
-
-## Usage
-
-Each script can be run individually, depending on your needs. For example, to deploy an Azure Machine Learning workspace and compute instance, you would run:
-
-```powershell
-.\deploy_ml.ps1
